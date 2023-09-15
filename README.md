@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZeelC31
+- 👋 Hi, I’m Zeel Chaudhari 
 - 👀 I’m interested in python 
 - 🌱 I’m currently pursuing bachelor's degree in ICT Engineering 
 - 💞️ I’m a 3rd year student of Adani Institute of Infrastructure Engineering 
